@@ -52,7 +52,7 @@
 }
 
 .icon-menu {
-    stroke: blue;
+    fill: blue;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -62,7 +62,7 @@
 }
 
 .burger-btn:active .icon-menu {
-    stroke: blue;
+    fill: blue;
 }
 
 
@@ -98,7 +98,7 @@
 .order-now-modal-close {
     width: 32px;
     height: 32px;
-    stroke: black;
+    stroke: green;
     transition: stroke var(--transition-dur-and-func);
 }
 
@@ -107,7 +107,7 @@
 }
 
 .icon-x {
-    stroke: green;
+    color: green;
     display: flex;
     justify-content: center;
     align-items: center;
